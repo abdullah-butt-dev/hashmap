@@ -1,4 +1,4 @@
-# Hash Map Implementation (Separate Chaining)
+# Hash Map Implementation
 
 This project implements a custom **Hash Map** in JavaScript using **separate chaining with linked lists** to handle collisions.
 
@@ -51,8 +51,6 @@ Returns an array of `[key, value]` pairs.
 - Load factor: 0.75
 - When exceeded, capacity doubles
 - All entries are rehashed into new buckets
-
----
 
 ## 🧪 Testing
 
